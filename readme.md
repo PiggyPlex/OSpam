@@ -17,6 +17,7 @@ Another thing to mention is that after a certain period of time, Omegle may ask 
 This will hopefully be fixed in a later update.
 ### Contact
 For support, generic questions, or to learn how you can become a contributer, contact me using one of the methods below:
+
 Discord: **PiggyPlex#9993**
 
 Email: **PiggyPlex@gmail.com**
