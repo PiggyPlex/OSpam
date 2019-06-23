@@ -1,1 +1,4 @@
-# Omegle Spam Bot
+# OSpam
+OSpam is an Omegle Spam Bot, which can be used to advertise or simply just to get a message round this annonymous chatroom.
+### License
+The software is provided as is, without any warranty or help coming with it. The owner of the software (PiggyPlex) is not responsible for any trouble nor repercussions when using this bot. It should only be used for educational purposes and never in a negative or illegal way. The code may not be used in any way to gain money or other assets, and should not be disclosed nor shared under one's own work. When sharing the code, credit must be given. Contributions and remixes can be made, but they should always include credit to the original owner (PiggyPlex). The owner (PiggyPlex) is not held liable nor responsible for how or what this code is used for.
