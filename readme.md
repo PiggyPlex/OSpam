@@ -18,6 +18,7 @@ This will hopefully be fixed in a later update.
 ### Contact
 For support, generic questions, or to learn how you can become a contributer, contact me using one of the methods below:
 Discord: **PiggyPlex#9993**
+
 Email: **PiggyPlex@gmail.com**
 ### License
 The software is provided as is, without any warranty or help coming with it. The owner of the software (PiggyPlex) is not responsible for any trouble nor repercussions when using this bot. It should only be used for educational purposes and never in a negative or illegal way. The code may not be used in any way to gain money or other assets, and should not be disclosed nor shared under one's own work. When sharing the code, credit must be given. The owner (PiggyPlex) is not held liable nor responsible for how or what this code is used for.
